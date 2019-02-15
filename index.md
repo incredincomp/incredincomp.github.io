@@ -6,10 +6,11 @@
 
 I am awful at all of this so beware
 
-[Greprow](https://www.github.com/incredincomp/greprow)
+[Greprow](https://incredincomp.github.io/greprow/)
 
 [Peep-Admin](https://www.github.com/incredincomp/peep-admin)
 
+[Personal Website](http://incredincomp.com)
 ```markdown
 I'm a Blank Block of Code. A BBC
 ```
