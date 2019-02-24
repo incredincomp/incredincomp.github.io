@@ -6,6 +6,8 @@
 
 I am awful at all of this so beware
 
+[Wiki](https://incredincomp.gitbook.io)
+
 [Greprow](https://incredincomp.github.io/greprow/)
 
 [Peep-Admin](https://www.github.com/incredincomp/peep-admin)
