@@ -8,7 +8,7 @@ I am awful at all of this so beware
 
 [Wiki](https://wiki.incredincomp.com)
 
-[Greprow](https://incredincomp.github.io/greprow/)
+[Greprow](https://github.com/incredincomp/greprow)
 
 [Peep-Admin](https://www.github.com/incredincomp/peep-admin)
 
